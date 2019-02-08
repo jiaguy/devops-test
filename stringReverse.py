@@ -1,4 +1,4 @@
-#written in Python version 3.7.2
+#!/user/bin/env python 3.7.2
 
 import string
 import random
